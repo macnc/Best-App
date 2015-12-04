@@ -6,7 +6,7 @@ Best App ![Trending Badge](https://d2weczhvl823v0.cloudfront.net/hzlzh/best-app/
 于是创建了这个 List 项目，旨在让推荐变得有章可循*
 
 ## 总目录
-a
+
 欢迎大家推荐好的 App/产品 加入，请`Star`、`Pull Request`或在 [收集&提交页] 中提交 :)
 
 1. [付费 Apps 推荐列表(Mac OS)](./README.md)
@@ -40,7 +40,6 @@ a
 <a href="#Fantastical" name="Fantastical">★</a>★★★☆ | [Fantastical] | 基于日历的GTD提醒 | $19.99 | [#](http://www.macworld.com/article/2058681/fantastical-2-for-iphone-review-calendar-app-gets-more-fantastic-for-ios-7.html)
 <a href="#Tweetbot" name="Tweetbot">★</a>★★★☆ | [Tweetbot] | Twitter客户端 | $19.99 | [#](http://www.macworld.com/article/2012647/mac-gems-tweetbot-for-mac-is-exactly-what-youd-expect.html)
 <a href="#Airmail" name="Airmail">★</a>★★★☆ | [Airmail] | Email客户端新秀 | $9.99 | [#](http://mac.appstorm.net/reviews/communication-review/airmail-a-real-sparrow-alternative/)
-<a href="#Sparrow" name="Sparrow">★</a>★★★☆ | [Sparrow] | Email客户端 | $9.99 | [#](http://mac.appstorm.net/reviews/communication-review/sparrow-minimal-functional-and-elegant-email/)
 <a href="#jitouch" name="jitouch">★</a>★★★☆ | [jitouch] | 触控板增强，画个字母B，打开浏览器 | $7.99 | [#](http://www.macworld.com/article/1151457/jitouch.html)
 <a href="#OmniFocus" name="OmniFocus">★</a>★★★☆ | [OmniFocus] | GTD，学好上手之后秒杀同类 | $79.99 | [#](http://www.asianefficiency.com/technology/omnifocus-mac-review/)
 <a href="#Keyboard-Maestro" name="Keyboard-Maestro">★</a>★★★☆ | [Keyboard Maestro] | 定制键盘快捷操作 | $36 | [#](http://mac.appstorm.net/how-to/productivity-how-to/how-to-become-a-mac-keyboard-maestro/)
@@ -57,7 +56,8 @@ a
 <a href="#Devonthink-Pro" name="Devonthink Pro">★</a>★★★☆ | [Devonthink Pro] | 文件管理/搜索工具，很强大 | $79.95 | [#](http://www.macworld.com/article/1161735/review_devonthink_pro_office_2_2_1_helps_manage_your_data.html)
 <a href="#Ember" name="Ember">★</a>★★★☆  | [Ember] | 设计/素材订阅器及素材管理，如 Dribbble | $49.99 | [#](http://www.theverge.com/2013/7/23/4546974/ember-for-mac-app-evernote-alternative)
 <a href="#Writer-Pro" name="Writer Pro">★</a>★★★☆ | [Writer Pro] | 写作利器，iA Writer的续作 | $19.99 | [#](http://mac.appstorm.net/reviews/office-review/writer-pro-is-an-exercise-in-disappointment/)
-<a href="#BetterSnap-Tool" name="BetterSnap Tool">★</a>★★★☆ | [BetterSnap Tool] | 窗口管理工具，同 Moom、Divvy | €1,79 | [#](http://mac.appstorm.net/reviews/utilities/bettersnaptool-full-featured-window-management/)
+<a href="#BetterSnap-Tool" name="BetterSnap Tool">★</a>★★★☆ | [BetterSnap Tool] | 窗口管理工具，同 Moom、Divvy | €1.79 | [#](http://mac.appstorm.net/reviews/utilities/bettersnaptool-full-featured-window-management/)
+<a href="#KeyCue" name="KeyCue">★</a>★★★☆ | [KeyCue] | 帮助你打开快捷大全菜单 | €19.99 | [#](http://www.osxtoy.com/?p=1054)
 <a href="#Little-Snitch" name="Little Snitch">★</a>★★★  | [Little Snitch] | 防火墙、网络请求监控 | €29.95 | [#](http://www.macworld.com/article/2017161/mac-gems-little-snitch-snitches-on-misbehaving-apps.html)
 <a href="#OmniGraffle" name="OmniGraffle">★</a>★★★  | [OmniGraffle] | 专业绘图制表工具，推荐v6.0 | $99.99 | [#](http://www.macworld.com/article/1136253/omnigrafflepro5.html)
 <a href="#ForkLift" name="ForkLift">★</a>★★★  | [ForkLift] | Finder替代品兼FTP工具 | $19.95 | [#](http://mac.appstorm.net/reviews/forklift-the-fast-functional-ftp-client/)
@@ -143,7 +143,7 @@ a
 <a href="#iTunes-Match" name="iTunes-Match">★</a>★★   | [iTunes Match] | iTunes 音乐服务 | $24.99/year | [#](http://www.maclife.com/article/reviews/itunes_match_review)
 <a href="#Google-Music" name="Google-Music">★</a>★★   | [Google Music] | Google 音乐服务 | $9.99/month | [#](https://play.google.com/about/music/)
 <a href="#Evernote-Pro" name="Evernote-Pro">★</a>★★   | [Evernote Pro] | 笔记服务 | $45/year | [#](http://www.pcworld.com/article/2033479/become-an-evernote-power-user-10-must-know-tips.html)
-<a href="#Github-Pro" name="Github-Pro">★</a>★★   | [Github Pro] | 基于 Git 的代码托管服务 | $7/month | [#](https://github.com/features‎)
+<a href="#Github-Pro" name="Github-Pro">★</a>★★   | [Github Pro] | 基于 Git 的代码托管服务 | $7/month | [#](https://github.com/features)
 <a href="#Dropbox-Pro" name="Dropbox-Pro">★</a>★★   | [Dropbox Pro] | 云存储/分享服务 | $9.99/month | [#](https://www.dropbox.com/upgrade)
 <a href="#Droplr-Pro" name="Droplr-Pro">★</a>★★   | [Droplr Pro] | 分享文件，支持自定义短链和统计 | $30/year | [#](http://web.appstorm.net/reviews/storage-reviews/i-switched-to-droplr-pro-heres-why/)
 <a href="#CloudApp-Pro" name="CloudApp-Pro">★</a>★★   | [CloudApp Pro] | 云存储/分享服务 | $45/year | [#](http://store.getcloudapp.com/)
@@ -162,6 +162,7 @@ a
 
 ## Mac OS App 优惠&促销信息媒体
 
+* [MacTips](http://mactips.io/)
 * [AppShopper](http://appshopper.com/)
 * [MacUpdate](https://deals.macupdate.com/)
 * [Current Mac Bundles](http://www.squidoo.com/current-mac-bundles)
@@ -208,6 +209,12 @@ a
 
 Released under [MIT] LICENSE
 
+#### 扩展阅读
+
+@hzlzh 创立了一个微信公众号：[MacTips](http://mactips.io/)  
+ -- 专注于分享 Mac 使用经验和技巧，打造 Mac 神兵利器。  --
+![MacTips](http://ww4.sinaimg.cn/large/644eac00gw1evn89qmu5aj20by0byaav.jpg)
+
 [<< 查看总目录]: ./README.md
 [issue]: https://github.com/hzlzh/Best-App/issues
 [收集&提交页]: https://github.com/hzlzh/Best-App/issues
@@ -249,7 +256,6 @@ Released under [MIT] LICENSE
 [Scrapbook]: http://www.ariessolutions.de/sites/scrapbook/
 [ScreenFlow]: http://www.telestream.net/screenflow/
 [Sparkbox]: http://www.icyblaze.com/sparkbox/
-[Sparrow]: http://sparrowmailapp.com/
 [Tweetbot]: http://tapbots.com/software/tweetbot/mac/
 [Xee]: http://xee.c3.cx/
 [PhotoDesk]: http://www.photodesk-app.com/
@@ -278,6 +284,7 @@ Released under [MIT] LICENSE
 [Short Menu]: http://floschliep.com/short-menu-mac/
 [Picatext]: http://www.picatext.com/
 [BetterSnap Tool]: http://blog.boastr.net/
+[KeyCue]: http://www.ergonis.com/products/keycue/
 [PaintCode]: http://www.paintcodeapp.com/
 [Airmail]: http://airmailapp.com/
 [CodeKit]: http://incident57.com/codekit/
